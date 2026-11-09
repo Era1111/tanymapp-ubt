@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "01-units",
+    "slides": 21,
+    "pptx": "01-units/lesson.pptx"
+  },
+  {
+    "slug": "02-conversion",
+    "slides": 21,
+    "pptx": "02-conversion/lesson.pptx"
+  },
+  {
+    "slug": "03-memory",
+    "slides": 21,
+    "pptx": "03-memory/lesson.pptx"
+  },
+  {
+    "slug": "04-files",
+    "slides": 21,
+    "pptx": "04-files/lesson.pptx"
+  },
+  {
+    "slug": "05-archives",
+    "slides": 21,
+    "pptx": "05-archives/lesson.pptx"
+  }
+]
