@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-open-grade]').forEach(b=>b.addEventListener('click',()=>{const grade=b.dataset.openGrade;document.getElementById('sections').hidden=grade!=='7';document.getElementById('sections-8').hidden=grade!=='8';document.getElementById(grade==='7'?'sections':'sections-8').scrollIntoView({behavior:'smooth',block:'start'});}));
